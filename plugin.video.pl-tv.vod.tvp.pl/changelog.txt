@@ -1,0 +1,41 @@
+1.0.17:
+-fix small bug with icon width
+
+1.0.16:
+-fix default quality settings
+
+1.0.15:
+-old VOD files support
+
+1.0.14:
+-Full HD support
+
+1.0.13:
+-Fixed VOD TVP connection
+
+1.0.12:
+-Fixed quality order
+
+1.0.11:
+-Bugfix
+
+1.0.10:
+-Added in settings automaticly choosing of quality 
+
+1.0.9:
+-Fixed bug in film list, that blocked some movies to display on it
+
+1.0.8:
+-Bugfix
+
+1.0.7:
+- Asking for quality only if it's avaiable
+
+1.0.6:
+- Added ask for quality, and auto play best quality in add-on config  
+
+1.0.5:
+- Added add-on config for proxy settings
+
+1.0.4:
+- Added support for proxy settings
